@@ -17,10 +17,7 @@
 ---
 
 **1.0.0：** 东北地区真实收入分享，发布在小红书平台https://xhslink.com/m/5HwDWaO8Zhq
+地址在https://github.com/H-repos/Lumina/tree/main/1.0.0
 
-示例
-![26](1.0.0/26.jpg)
-![33](1.0.0/33.jpg)
-![41](1.0.0/41.jpg)
 赞赏码
 ![赞赏码](lumina.jpg)
