@@ -4,7 +4,7 @@
 
 当无数微光汇聚，就能照亮一条更清晰的路。
 
-由于GitHub经常打不开，所以资料上传到网盘了。
+由于GitHub经常打不开，所以资料上传到飞书表格了。
 ![文件](file.png)
 
 迅雷：https://pan.xunlei.com/s/VOl1pu0eD03GoiPFyloDBFhkA1?pwd=ji44#
